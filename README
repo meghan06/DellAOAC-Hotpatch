@@ -1,6 +1,6 @@
 DellAOAC-Hotpatch
 
-ACPI patches and renames to enable S3 sleep on macOS. Tested on the Dell XPS 13 7390 2 in 1. The ACPI patch renames S0 to XS0, then enables S3 sleep. Please see https://github.com/meghan06/XPS13-73902in1#enabling-s3-sleep for a fully fleshed guide. 
+ACPI patches and renames to enable S3 sleep on macOS. Tested on the Dell XPS 13 7390 2 in 1. The ACPI patch renames S0 to XS0, then enables S3 sleep using the SSDT. Please see https://github.com/meghan06/XPS13-73902in1#enabling-s3-sleep for a fully fleshed guide. 
 
 ---------
 
